@@ -8,6 +8,8 @@ const FirstLine = require('firstline');
 
 let summaryFile = Path.join(process.env.PWD, "SUMMARY.md");
 
+FS.writeFileSync(summaryFile, "# Summary\n\n");
+
 let files = [];
 
 process.argv.slice(2, process.argv.length).map((item) => {
