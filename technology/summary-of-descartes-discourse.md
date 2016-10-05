@@ -1,6 +1,6 @@
-Summary of Descartes’ Discourse on Method
+# Summary of Descartes’ Discourse on Method
 
-Descartes’ Discourse on Method is a six part essay discussing sciences, religion and spiritualism.
+Descartes’ Discourse on Method is a `six` part essay discussing `sciences`, `religion` and `spiritualism`.
 
 The first part briefly began with the importance of applying knowledge appropriately, slowly and steadily. Descartes then remarked how his unsatisfying education left him lacking real-world experience, leading to how he self-learned critical thinking via inspection.
 
