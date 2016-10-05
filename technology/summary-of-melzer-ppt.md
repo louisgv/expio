@@ -1,4 +1,4 @@
-Summary of Melzer's The Problem with “The Problem of Technology”
+# Summary of Melzer's The Problem with “The Problem of Technology”
 
 Melzer’s essay, The Problem with “The Problem of Technology”, aimed to `revisit` and `expand` the discussion in The Problem of Technology.
 
