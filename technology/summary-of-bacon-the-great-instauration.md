@@ -1,6 +1,6 @@
 # Summary of Bacon's The Great Instauration
 
-The opening of Bacon's The Great Instauration entails a visionary plan.
+The opening of Bacon's The Great Instauration entails a `visionary plan`.
 
 Bacon began with reasoning why a total reconstruction of human knowledge is needed, with a letter to the king requesting to support that cause.
 
