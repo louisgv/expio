@@ -1,29 +1,15 @@
 # Exhibition of the modern mind.
 
-The emerging modern mind is a controversial concept, molted by the most influential, endorsed by the brightest, but feared by the common - those who are indebted to the "traditional values" of their life time.
+The emerging modern mind is a controversial concept, molted by the most influential, endorsed by the brightest, but feared by the established - those who are indebted to the "traditional values" of their life time.
 
-The modern mind actively seeks useful knowledge. On page 128 of Cosmopolis, Toulmin implied that the modern mind is a quest for interdisciplinary knowledge that can be combined to solve real world problem. Much like the concept of the natural knowledge library proposed by Bacon in his letter to King James (5-7). This characteristic was further demonstrated by Descartes, as he hinted at his desire to have readers find his fable useful (17-18). He also
+The modern mind was pioneered by two scholars, Bacon and Descartes. With his introduction to the scientific method, Bacon urged for a focus on natural knowledge and the quest for truth (5-7), thus ignited the technocrat regime phenomenon. Descartes later expanded on this idea to introduce a fable that according to Toulmin, had shown the common how they too could embark in the quest for knowledge (14). This concept caught on to become an aspect of the daily life with the separation of reasoning and emotion (134). Let us take a look at the key characteristics that set this mind set apart from its predecessor.
 
-Furthermore, Descartes advocated traveling to foreign places and learning from external  beside advocating gathering  knowledge Descartes advocated traveling and learn outside of their hometown (18-19).
+The modern mind actively seeks useful knowledge. On page 128 of Cosmopolis, Toulmin implied that the modern mind is a quest for interdisciplinary knowledge that can be combined to solve real world problem, much like the concept of the natural knowledge library proposed by Bacon in his letter to King James (5-7). In the Great Instauration, Bacon advocated the finding of applicable knowledge in charity (17). Bacon brought this idea to life in his utopia novel about the Bensalem island and the House of Salomon, in which goods were traded for knowledge (85-86). This characteristic was later further demonstrated by Descartes, as he hinted at his desire to have readers find his fable useful (17-18), while also remarked his disappointment of not being able to apply mathematic at a higher level than mechanic (19).
 
-This characteristic was further revealed in Bacon's writing of The Great Instauration, in which he discussed in detail his visionary plan to reconstruct knowledge to be more useful
+The modern mind thinks rationally. The four rules of reasoning derived by Descartes clearly show this trait (25-26). The first to doubt anything that does not have backing evidence. The second to divide big problem into smaller one. The third to conduct problem in order from simple to complicated. And lastly, to study everything comprehensively. Bacon also mentioned a similar induction method based on logical prove and experimentation (23-24). Interestingly, both scholars regarded highly of mathematic for its constructive nature and truthful value (Descartes - 19, Bacon - 30). Another exhibition of this characteristic, is in how Bacon and Descartes utilized a six parts framework to organize their writing and thought.
 
- This is the major trait of the modern mind as practiced by both the two pioneer of the scientific method.
+The modern mind seeks to master the self. Descartes' resoluteness throughout his work, together with his discussion regarding morality and the coping mechanism derived to blend in with the contemporary politic, denoted this concept (27-30). Fuller's description of the precautionary principle - a political concept that seeks to prevent bad outcomes (164) - seems related to this characteristic as well. This spectrum limits harmful consequence by advocating the reduction of over production and over consumption (165-166), which is equivalent to the mastery of the self.
 
-This concept of useful knowledge
+The modern mind strives to control nature. Bacon's proposal of the scientific method was intended for this goal all along (21). The unpopular proactionary principle discussed by Fuller (166) seems to have taken this trait to the extreme. This spectrum seeks to gain profit through uncertainty risk taking. The "profit" discussed, are the control of nature as in the biological human itself, thus concepts such as immortality, transhumanism, and bolder concepts. In the movie "The Fountain," this trait was shown by the character Tom and his resoluteness in finding a cure for his wife.
 
- in the real world,
-is a quest for a scientific understanding of the world. seeks to understand their surrounding via a comprehensive knowledge of the world, similar to the scientific one described by
-
-The definition of the modern mind was discussed thoroughly in Toulmin's Cosmopolis. pointed out this conflict in ideology between the
-The
-
-
-
-Although contemporary to the general population (as always), several key figures throughout mankind's history lived with a modern mind.
-
-
-
-The emerging modern mind is highly technical, actively seeking useful knowledge, and is critical in validating its discovery.
-
-Great men of the past were influenced by this mindset.
+As a whole, the modern mind is more technical, rational, and manipulative compared to the pre modern mind. Although novel in conceptual, several key figures throughout mankind's history lived with a modern mind.
