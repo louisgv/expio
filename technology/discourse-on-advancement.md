@@ -6,11 +6,12 @@
 # Outline:
 
 ## Introduction
-  - Thesis:
-  - Purpose: _The modern mind is technical driven, doubtful, with a mindset focused on actively experimenting and applying knowledge and science._
+  - Thesis: **The modern mind is highly technical,
+  seek knowledge, and knowledge driven.**
+  - Purpose: _Showing how the "modern mind" has been inspired by many great men in the past, and how most great men adopted the modern mind ahead of their age. The modern mind is technical driven, doubtful, with a mindset focused on actively experimenting and applying knowledge and science._
 
 ## Pre-modern mind
-  -
+  - This mindset is the old mindset given by
 
 ## The modern mind
   - Bacon (1627) - Scientific Method and the utopia of Bensalem Going back to as long as 1627, Bacon's works hinted to a society where knowledge is even more valuable than money. As described in his Utopia novel, the state of Bensalem would trade for knowledge around the world (). The technocrat regime.
