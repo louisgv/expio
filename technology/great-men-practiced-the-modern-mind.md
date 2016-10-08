@@ -12,4 +12,4 @@ The modern mind seeks to master the self. Descartes' resoluteness throughout his
 
 The modern mind strives to control nature. Bacon's proposal of the scientific method was intended for this goal all along (21). The unpopular proactionary principle discussed by Fuller (166) seems to have taken this trait to the extreme. This spectrum seeks to gain profit through uncertainty risk taking. The "profit" discussed, are the control of nature as in the biological human itself, thus concepts such as immortality, transhumanism, and bolder concepts. In the movie "The Fountain," this trait was shown by the character Tom and his resoluteness in finding a cure for his wife.
 
-As a whole, the modern mind is more technical, rational, and manipulative compared to the pre modern mind. Although novel in conceptual, several key figures throughout mankind's history lived with a modern mind.
+As a whole, the modern mind is more technical, rational, and manipulative compared to the pre modern mind. Whether this is good or bad
