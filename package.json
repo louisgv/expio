@@ -1,23 +1,24 @@
 {
-  "name": "expio",
-  "version": "1.0.0",
-  "description": "This knowledge base contains fragment of knowledge from men far more advanced than I am.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/louisgv/expio.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/louisgv/expio/issues"
-  },
-  "homepage": "https://github.com/louisgv/expio#readme",
-  "dependencies": {
-    "firstline": "^1.2.0"
-  }
+	"name": "expio",
+	"version": "1.0.0",
+	"description": "This knowledge base contains fragment of knowledge from men far more advanced than I am.",
+	"main": "index.js",
+	"scripts": {
+		"start": "node ./tools/updatesummary.js math technology algorithm",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/louisgv/expio.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/louisgv/expio/issues"
+	},
+	"homepage": "https://github.com/louisgv/expio#readme",
+	"dependencies": {
+		"firstline": "^1.2.0"
+	}
 }
