@@ -4,7 +4,7 @@
 	"description": "This knowledge base contains fragment of knowledge from men far more advanced than I am.",
 	"main": "index.js",
 	"scripts": {
-		"start": "node ./tools/updatesummary.js math technology algorithm",
+		"start": "node ./tools/updatesummary.js math technology algorithms",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
