@@ -16,7 +16,9 @@ process.argv.slice(2, process.argv.length).map((item) => {
   let p = Path.join(process.env.PWD, item);
 
   FS.readdir(p, function(err, items) {
-
+      if (err) {
+        return;
+      }
       items.map((md) => {
 
         let fp = Path.join(p, md);
