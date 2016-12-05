@@ -10,8 +10,6 @@ How does DARPA’s weaponizing of scientific advances in one sense call into que
 
 Discuss the documentary The Bomb in relation to the perceived necessity of states to employ science to gain the competitive advantage in war. What are your thoughts on the enlisting of science to serve the national interest? Does this jeopardize the authority and legitimacy of science and scientists?
 
-The Bomb: HYPERLINK "http://albert.rit.edu/search~S2?/Xthe+bomb+&searchscope=2&SORT=D/Xthe+bomb+&searchscope=2&SORT=D&SUBKEY=the+bomb+/1%2C253%2C253%2CB/frameset&FF=Xthe+bomb+&searchscope=2&SORT=D&1%2C1%2C" http://albert.rit.edu/search~S2?/Xthe+bomb+&searchscope=2&SORT=D/Xthe+bomb+&searchscope=2&SORT=D&SUBKEY=the+bomb+/1%2C253%2C253%2CB/frameset&FF=Xthe+bomb+&searchscope=2&SORT=D&1%2C1%2C
+The Bomb: HYPERLINK http://albert.rit.edu/search~S2?/Xthe+bomb+&searchscope=2&SORT=D/Xthe+bomb+&searchscope=2&SORT=D&SUBKEY=the+bomb+/1%2C253%2C253%2CB/frameset&FF=Xthe+bomb+&searchscope=2&SORT=D&1%2C1%2C
 
 Discuss the movie Transcendence as a reflection on Jacobsen’s discussion of transhumanism and artificial intelligence. What moral and political concerns does the movie raise in your mind?
-
-
