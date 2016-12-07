@@ -1,3 +1,5 @@
+https://mycourses.rit.edu/d2l/le/content/608903/Home
+
 # Linked Lists
 
   Defining a Node
