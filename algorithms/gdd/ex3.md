@@ -24,15 +24,15 @@
 
   How do you use the Dictionary class provided in C#?
 
-Common methods
+    Common methods
 
-  Add
-  ContainsKey
-  ContainsValue
-  Remove
-  Clear
+      Add
+      ContainsKey
+      ContainsValue
+      Remove
+      Clear
 
-Directly accessing and changing values
+    Directly accessing and changing values
 
 # Trees
 
@@ -43,8 +43,7 @@ Directly accessing and changing values
   What is binary search tree?
 
   How do you define a node?
-
-  What are the minimum attributes a node would need?
+    What are the minimum attributes a node would need?
 
   How do you insert nodes into a binary search tree?
 
@@ -61,23 +60,23 @@ Directly accessing and changing values
     Pre-Order
 
 # Graphs
+
+
   Vertex
   Edge
-  Weighted
-  Un-weighted
+    Weighted
+    Un-weighted
   Undirected vs. Directed
   Paths
 
 Difference between Graphs & Trees
 
 Representing Edges
+  Pros and cons of each
+  Adjacency Matrix
+  Adjacency List
 
-# Pros and cons of each
-
-Adjacency Matrix
-
-Adjacency List
-
+Use of Graph
 
 # Searching Graphs
 
@@ -85,31 +84,31 @@ Adjacency List
   Breadth First Search
 
 Explain each type
+  How does it work?
 
-How does it work?
+  How is it different from the other type?
 
-# How is it different from the other type?
-
-# Draw DFS and BFS on paper
+  Draw DFS and BFS on paper
 
 # Code for searching
 
 https://kgcoe-git.rit.edu/hhn2884/igme106/tree/master/25
 
-# What does your Vertex class need?
-  Required data structures for each type
+  What does your Vertex class need?
 
-Dijkstra’s Shortest Path Algorithm
+  Required data structures for each searching type
+
+# Dijkstra’s Shortest Path Algorithm
 
 Describe what it does.
 
-Sorting
+# Sorting
 
-Describe a sorting algorithm you’ve used
+## Describe a sorting algorithm you’ve used
 
-How does it work?
+  How does it work?
 
-What is its complexity (big “O” notation)?
+  What is its complexity (big “O” notation)?
 
 http://bigocheatsheet.com/
 
