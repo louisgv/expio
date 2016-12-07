@@ -69,16 +69,13 @@ Transhumanism or artificial singularity.
 # Outline:
 
 - Brief Transcendence summary.
-	Transcendence is a beautiful movie with an interesting plot and ambituous story. 
 
-	The movie started out with Will Caster got shot by a group against his creation of an AI, and instead of 
-
-The plot summarized is simply, a scientist named Will Caster was "transcended", or have all of his brain data transfer into the machine, and thus live inside the internet. A radical group against this idea attempted to kill the scientst, and when learning that the machine he built has now a thing, they teamed up with Washington (whcihever department they called), and decided to destroy the machine.
+Transcendence is a beautiful movie with an interesting plot and ambituous story. The plot summarized is simply, a scientist named Will Caster was "transcended", or have all of his brain data transfer into the machine, and thus live inside the INTERNET. A radical group against this idea attempted to kill the scientist, and when learning that the machine he built has now a thing, they teamed up with Washington (whichever department they called), and decided to destroy the machine.
 
 
 - On Artificial Intelligence
 
-To me, the most interesting part of the movie is the depiction of the AI. The reason why the writer wanted Will Caster's body dead was to avoid this story to become the two body drama. However, from tiem to time we can notice how the personalized AI is, although now casted with the will of the scientist, which now striving to solve the world's problem, doesn't have much care for the human privacy. The fact that he can manipulate human and uses their body at any given time shown that this is more exploitation than collaboration. 
+To me, the most interesting part of the movie is the depiction of the AI. The reason why the writer wanted Will Caster's body dead was to avoid this story to become the two body drama. However, from tiem to time we can notice how the personalized AI is, although now casted with the will of the scientist, which now striving to solve the world's problem, doesn't have much care for the human privacy. The fact that he can manipulate human and uses their body at any given time shown that this is more exploitation than collaboration.
 
 It seems that the most challenging problem of recognizing a human has been solved in this movie. The movie proposed another question however, "Prove that you are self-aware". We notice the answer given by the AI before it was personalized and the AI after personalized with the personaity of Dr. Will Caster was exactly the same. This came out either as the humor from within the soul or mind of the doctor, or just simply a "programmed" phrase within the AI, that which carry over and response to the doctor. In the end, we see that the assistant was not a believer, and almost everyone agreed that the machine is controlled by software, and not human. I think this is the fear that they were all proposing. And if it were demosntrated like the movie told, then it is alarming, as, although the AI enhanced the human, it planted something within each human such that the AI can jump in and out of each person, effectively making each host a slave of the machine itself.
 
@@ -87,14 +84,14 @@ It seems that the most challenging problem of recognizing a human has been solve
 
 Alteration of human and improve them in the movie seems tied to the concept of singularity, as they are not independent from the host, but almost act like a clone of the machine. Although the depiction of enhancement and so on was imminent, the concept seems to get out of hand and become uninteresting when the machine suddenly invade the free-will of the human.
 
-My guess is, after seeing how its own personalized AI is crafted and for some reason, came up with teh thougth that it is alive and is a person, that by planting itself to the other person it is helping them.
+My guess is, after seeing how its own personalized AI is crafted and for some reason, came up with the thought that it is alive and is a person, that by planting itself to the other person it is helping them.
 
 This is interesting in that according to the book, Goldman was quoted that modifying and enhancing the brain is just as much as improving the ear. However, the movie shown that by altering the brain, one can also alter it with a backdoor - i.e, a mechanism that allow the host to enter and use the brain whenever it wanted to. By looking at the brain as nothing but an organism that has strong security (by obscurity), we can see the movie has demonstrated what can go wrong with that point. His daughter brain will be cured, but the person who cured it could also alter the brain such that they can make her their servant. When we can control the brain, then data security and the privacy of the brain will become a problem that must be solved.
 
 
 - On Manipulation and Privacy
 
-However, we can see the resistance against the idea of manipulation. And although it is to help human, we see that it does has its own agenda. Whatever it is, still hidden. But we can see that the machine was not accepted by outsider, the moment they clarify to themselves that the machine's agenda, whatever it is, is bad. And in one way or another, the story says that it is bad. The bad part, is by how it manipulates those it help. Even the wife was manipulated too. I was confused with how peaceful this machine is, as if it can make anyone become one with it, why not make everyone? I guess the machine does ask for consent or some sort of permission. 
+However, we can see the resistance against the idea of manipulation. And although it is to help human, we see that it does has its own agenda. Whatever it is, still hidden. But we can see that the machine was not accepted by outsider, the moment they clarify to themselves that the machine's agenda, whatever it is, is bad. And in one way or another, the story says that it is bad. The bad part, is by how it manipulates those it help. Even the wife was manipulated too. I was confused with how peaceful this machine is, as if it can make anyone become one with it, why not make everyone? I guess the machine does ask for consent or some sort of permission.
 
 - On DARPA and other agency
 
@@ -105,23 +102,3 @@ Also, seems like DARPA didn't expect this internal threat. Probably it was waiti
 - Conclusion
 
 We observe many interesting discussion that counter as well as reinforce some of the point demonstrated in the book. This world however, could actually be a fictional world. Since we are seeing the world advance with technology, and we can only see human embracing it. I hope that human embrace it, and I hope the machine understand reason and free will. Maybe the doctor's brain has only scientific and radical data for the machine to reason about. I hope if we were to make such a machine, we should feed it not just the scientifc data, the personal data, but also, art, philosophy, psychology, in a way that the machine respect the making of humanity, and in return, human can respect the machine, as more than just a handy tool.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
