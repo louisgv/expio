@@ -1,39 +1,34 @@
 1. Note, LibHunt
-2. Research, Mindful, Filter out the crap
+2. Research, Mindful, Follow the source
 3. Pattent is costly, and Copyright can only be granted to tangible thing. 
+4. Why outreach with social media
 4. Different social network attracts different kind of people
 4. Leverage the differences to choose the right audience, and slowly get to the top.
-5. Building a flexible website requires separation of concern. 
-	HTML handles text contents
-	CSS handles styling, and 
-	JavaScript handles logic
+5. Building an adaptable website requires separation of concern. 
+	HTML for text contents
+	CSS for styling, and 
+	JavaScript for logic
 6. Basic commandline. 
-	Some prefers File Transfer Protocol for its simplicity, 
-	I prefer Secure Copy Protocol, as it encrypts my data, and make my terminal a lot cooler.
+	Some prefers FTP for its simplicity, 
+	I prefer Secure Copy Protocol.
 7. Typography and CSS
-	Font and Typeface are two separate thing. 
-	Typeface is the design itself
-	Font is the digital encoding of a typeface
+	Typeface is the design
+	Font is the digital encoding
 8. Element of Designs
-	Spacing is the most important
-	It gives my viewer time to understand
-	And see through my intention.
-8. We also went through two design principal acronyms
-	G.E.A.R.S
-	C.R.A.P
-	I'm sure you all remember them
-	I observe that there is a pattern. 
+	Spacing is the most interesting
+	simple and mysterious
+8. GEARS and CRAP
 	The worst website often lack the most fundamental principal,
 	That is Goal
 9. Compare these two college websites
 	While one demonstrates a modern, friendly and ambitious academic environment,
-	The other is outdated and unorganized. 
-	I think it can improve with a brighter color palete, and a visible APPLY button.
+	The other shown an outdated, unorganized attitude.
+	It doesn't have a visible APPLY button. 
 9. The key take away is not about criticizing the design itself
-	But rather how to have constructive critique sessions
-	Such that the designer can improve
-10. Another key, is to align the goal with the user experience
-	so that the finished product is usable by the user.
+	But rather to have constructive critique sessions
+	So that the designer can improve
+10. We want to make sure our design is useful
+	So aligning design with UX is key
 	Information architecture technique such as 
 	flow diagram can help.
 11. I created a vector image for my logo
